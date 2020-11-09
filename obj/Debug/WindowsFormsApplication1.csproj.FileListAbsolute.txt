@@ -1,0 +1,41 @@
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMenu.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmParcoursFilms.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmAjoutFilm.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmParcoursActeurs.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWinForms\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChercherFilm.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmAjoutFilm.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChercherFilm.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMenu.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmParcoursActeurs.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmParcoursFilms.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\grand\OneDrive\2TSSLAM\C#\CinemaWinFormDllSerialisationBinding\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmAjoutFilm.resources
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmChercherFilm.resources
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmMenu.resources
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmParcoursActeurs.resources
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmParcoursFilms.resources
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\SLAM 5\TPCinema2019\CinemaWFV0\CinemaWFV0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
